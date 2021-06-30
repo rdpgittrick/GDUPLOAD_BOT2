@@ -4,6 +4,7 @@ class config:
     API_HASH = "736ebb510d62773e688e32f94973f896"
     DATABASE_URL = "postgres://zznsqdxefokqsp:92f29f26885a6f16c0fdd06c1d09a52575c5701ef11c1b5a3e2e270e14d3df03@ec2-3-226-134-153.compute-1.amazonaws.com:5432/dbsgar7ndf7cea"
     SUDO_USERS = "1428665453" # Sepearted by space.
+    SUPPORT_CHAT_LINK= "https://t.me/Venby_Team"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = "342314908354-n6k90bkfk6eop1iqie48a077efcdaqb5.apps.googleusercontent.com"
     G_DRIVE_CLIENT_SECRET = "x01iN85GJ8JOj0qs0RuMZ4Yx"
